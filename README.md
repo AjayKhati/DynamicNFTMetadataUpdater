@@ -1,4 +1,3 @@
-# DynamicNFTMetadataUpdater
 
 
 # Dynamic NFT Metadata Updater
@@ -33,3 +32,6 @@ To provide a simplified yet powerful framework for **dynamic NFTs** that evolve 
 
 
 ## contract details: 0x4EeaA98305b49Df0b1b453a1096eA724960E35Eb
+
+![Screenshot (4)](https://github.com/user-attachments/assets/cfdab947-981b-4444-a704-c0662fd43323)
+
